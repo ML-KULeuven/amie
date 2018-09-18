@@ -1,7 +1,7 @@
 # Automatic Monitoring of Indoor Exercises
 Source code of our paper "AMIE: Automatic Monitoring of Indoor Exercises" at ECMLPKDD'18
 
-The data can be dowloaded from https://dtai.cs.kuleuven.be/software/amie/amie-kinect-data.zip.
+The data can be dowloaded from https://dtai.cs.kuleuven.be/software/amie.
 To use it, extract the hdf-file from the zip and place it in the data/ folder.
 
 
