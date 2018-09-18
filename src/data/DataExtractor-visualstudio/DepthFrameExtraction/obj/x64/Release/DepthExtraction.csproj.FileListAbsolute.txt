@@ -1,0 +1,7 @@
+C:\work\kinect-tomd\DataExtractor\DepthFrameExtraction\bin\x64\Release\DepthExtraction.exe.config
+C:\work\kinect-tomd\DataExtractor\DepthFrameExtraction\bin\x64\Release\DepthExtraction.exe
+C:\work\kinect-tomd\DataExtractor\DepthFrameExtraction\bin\x64\Release\Microsoft.Kinect.dll
+C:\work\kinect-tomd\DataExtractor\DepthFrameExtraction\bin\x64\Release\Microsoft.Kinect.Tools.dll
+C:\work\kinect-tomd\DataExtractor\DepthFrameExtraction\bin\x64\Release\Microsoft.Kinect.xml
+C:\work\kinect-tomd\DataExtractor\DepthFrameExtraction\bin\x64\Release\Microsoft.Kinect.Tools.xml
+C:\work\kinect-tomd\DataExtractor\DepthFrameExtraction\obj\x64\Release\DepthExtraction.exe

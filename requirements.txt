@@ -1,0 +1,9 @@
+dtaidistance
+jupyter
+matplotlib
+numpy
+pandas
+scikit-learn
+tqdm
+tsfresh
+xgboost
